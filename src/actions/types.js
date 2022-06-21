@@ -1,0 +1,1 @@
+export const LIST_GIPHY = 'LIST_GIPHY'
